@@ -1,0 +1,24 @@
+{
+  "description": "Primer ejercicio de Introducion a JavaScript",
+  "name": "01_ejercicio1_introducio_js",
+  "version": "1.0.0",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "saludo": "echo \"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatan22/03-Curso-de-JavaScript-Basico.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Jhonatan Cardona Duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatan22/03-Curso-de-JavaScript-Basico/issues"
+  },
+  "homepage": "https://github.com/tatan22/03-Curso-de-JavaScript-Basico#readme"
+}
