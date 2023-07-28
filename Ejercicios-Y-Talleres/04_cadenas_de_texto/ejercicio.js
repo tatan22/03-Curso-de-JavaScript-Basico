@@ -1,8 +1,8 @@
 // Una cadena de texto con tu Nombre
-const nombre = "Nombre";
+const nombre = "Jhonatan";
 
 // Otra cadena de texto con tu Apellido
-const apellido = "Apellido";
+const apellido = "Cardona";
 
 // Una cadena de texto que se llame "estudiante" concatenando tu Nombre y tu Apellido con un espacio entre medias
 const estudiante = nombre + " " + apellido;
